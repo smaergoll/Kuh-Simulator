@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kuh-Simulator 2.0", "Kuh-Simulator 2.0\Kuh-Simulator 2.0.csproj", "{0A470DCD-1E9B-4529-9404-0DA14B2F3C02}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0A470DCD-1E9B-4529-9404-0DA14B2F3C02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A470DCD-1E9B-4529-9404-0DA14B2F3C02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A470DCD-1E9B-4529-9404-0DA14B2F3C02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A470DCD-1E9B-4529-9404-0DA14B2F3C02}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5A74D6C8-CDBF-4758-B1D2-6C45F1626606}
+	EndGlobalSection
+EndGlobal

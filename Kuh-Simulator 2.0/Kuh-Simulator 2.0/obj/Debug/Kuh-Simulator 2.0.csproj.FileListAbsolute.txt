@@ -1,0 +1,15 @@
+C:\Users\on.MSH\source\repos\Kuh-Simulator 2.0\Kuh-Simulator 2.0\obj\Debug\Kuh-Simulator 2.0.csprojAssemblyReference.cache
+C:\Users\on.MSH\source\repos\Kuh-Simulator 2.0\Kuh-Simulator 2.0\obj\Debug\MainWindow.g.cs
+C:\Users\on.MSH\source\repos\Kuh-Simulator 2.0\Kuh-Simulator 2.0\obj\Debug\App.g.cs
+C:\Users\on.MSH\source\repos\Kuh-Simulator 2.0\Kuh-Simulator 2.0\obj\Debug\Kuh-Simulator 2.0_MarkupCompile.cache
+C:\Users\on.MSH\source\repos\Kuh-Simulator 2.0\Kuh-Simulator 2.0\obj\Debug\Kuh-Simulator 2.0_MarkupCompile.lref
+C:\Users\on.MSH\source\repos\Kuh-Simulator 2.0\Kuh-Simulator 2.0\bin\Debug\Kuh-Simulator 2.0.exe.config
+C:\Users\on.MSH\source\repos\Kuh-Simulator 2.0\Kuh-Simulator 2.0\bin\Debug\Kuh-Simulator 2.0.exe
+C:\Users\on.MSH\source\repos\Kuh-Simulator 2.0\Kuh-Simulator 2.0\bin\Debug\Kuh-Simulator 2.0.pdb
+C:\Users\on.MSH\source\repos\Kuh-Simulator 2.0\Kuh-Simulator 2.0\obj\Debug\MainWindow.baml
+C:\Users\on.MSH\source\repos\Kuh-Simulator 2.0\Kuh-Simulator 2.0\obj\Debug\Kuh-Simulator 2.0.g.resources
+C:\Users\on.MSH\source\repos\Kuh-Simulator 2.0\Kuh-Simulator 2.0\obj\Debug\Kuh_Simulator_2._0.Properties.Resources.resources
+C:\Users\on.MSH\source\repos\Kuh-Simulator 2.0\Kuh-Simulator 2.0\obj\Debug\Kuh-Simulator 2.0.csproj.GenerateResource.cache
+C:\Users\on.MSH\source\repos\Kuh-Simulator 2.0\Kuh-Simulator 2.0\obj\Debug\Kuh-Simulator 2.0.csproj.CoreCompileInputs.cache
+C:\Users\on.MSH\source\repos\Kuh-Simulator 2.0\Kuh-Simulator 2.0\obj\Debug\Kuh-Simulator 2.0.exe
+C:\Users\on.MSH\source\repos\Kuh-Simulator 2.0\Kuh-Simulator 2.0\obj\Debug\Kuh-Simulator 2.0.pdb
